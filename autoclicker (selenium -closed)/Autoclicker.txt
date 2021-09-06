@@ -1,0 +1,8 @@
+This is a simple autoclicker made using selenium
+this autoclicker uses the following components
+        1/  selenium
+        2/  clickspeed test website ("https://clickspeedtest.com/10-seconds.html")
+        3/  also uses webdriver wait 
+ 
+ you can dm me on discord if you wish to do so, if you find this repository for some reason 
+ Ave#2125
